@@ -1,25 +1,10 @@
+.man-s-watch,
+.watch-shooting,
+.section-sale {
+  list-style-type: none;
+}
+
 @media screen and (min-width: 768px) {
   .container-section {
-    min-height: 80px;
   }
-  .section-header {
-    font-family: Epilogue;
-    font-weight: 300;
-    width: 12px;
-    height: 14px;
-    color: #14141466;
-  }
-}
-
-.main-title {
-  font-family: Epilogue;
-  font-weight: 600;
-  width: 32px;
-  height: 14px;
-  color: #141414;
-}
-
-.man-s-watch,
-.watch-shooting {
-  list-style-type: none;
 }
