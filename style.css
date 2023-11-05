@@ -162,6 +162,13 @@ a {
   }
 }
 
+.section-sale,
+.Description,
+.DETAILS-FEATURESTION {
+  padding-left: 60px;
+  gap: 40px;
+  padding-bottom: 40px;
+}
 /*--DESCKTOP--*/
 @media screen and (min-width: 1158px) {
   .footer-section {
